@@ -1,0 +1,20 @@
+
+npm create vite@latest Myportfolio   ----vite build tool
+
+npm i _d tailwindcss    --------add tailwindcss depenence
+
+npx tailwindcss init     -------- add tailwindcss configure
+
+tailwindcss.configure   -----add file extension name (check tailwindcss website)
+
+copy paste tailwindcss directive in App.css fill  ----check website
+
+run tailwindcss  compiler file in trimal   -------check website
+
+now change css in html file in shortform like (p-5,flex,md)  
+
+now restart npm start again now reflectyour project tailwindcss 
+
+@apply ---- in css file use tailwindcss shortcut 
+
+.classname {}   ---- normal css also work in css file 
